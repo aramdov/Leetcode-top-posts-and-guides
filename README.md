@@ -15,7 +15,7 @@ A GitHub archive and aggregator of top content, posts and guides form Leetcode f
 
 
 ## Strings
-1. [Template for Substring Problems] (https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
+1. [Template for Substring Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 
 
 
