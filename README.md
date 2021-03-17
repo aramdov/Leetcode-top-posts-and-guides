@@ -7,8 +7,8 @@ A GitHub archive and aggregator of top content, posts and guides form Leetcode f
 1. Tutorials
 2. Templates
 3. Solution Explainations
-4. TBD...to be continued
-5. 
+4. Patterns
+5. TBD...to be continued
 
 -----------------------
 ## Time Complexity
@@ -68,8 +68,30 @@ A GitHub archive and aggregator of top content, posts and guides form Leetcode f
 
 ## Dynamic Programming
 
+  ### Tutorials
+  1. [DP for Beginners [Problems | Patterns | Sample Solutions] by @wh0ami]
+  
+  
+  ### Templates
+  1. [How to solve DP - String? Template and 4 Steps to be followed by @igooglethings]
+  
+  
+  ### Solution Explainations
+  
+  
+  
+  ### Patterns
+  1. [DP Patterns by @aatalyk]
 
 
+// TODO:
+Dynamic Programming Questions thread by @karansingh1559
+DP Classification helpful notes by @adityakrverma
+How to approach DP problems by @heroes3001
+Iterative DP for subset sum problems by @yuxiangmusic
+DP problems summary (problem categorization) by @richenyunqi
+Categorization of Leetcode DP problems by @chuka231
+Must do Dynamic Programming Category wise by @mahesh_nagarwal
 
 
 ---------------------------------------
