@@ -10,11 +10,6 @@ A GitHub archive and aggregator of top content, posts and guides form Leetcode f
 4. TBD...to be continued
 5. 
 
-
-
-# PART 1 [TUTORIALS]
-
-
 -----------------------
 ## Time Complexity
 1. [Explain Time Complexity to a 10 year old](https://leetcode.com/discuss/general-discussion/1050754/Explain-Time-Complexity-to-a-10-year-old)
@@ -52,10 +47,10 @@ A GitHub archive and aggregator of top content, posts and guides form Leetcode f
 
 ## Strings
 
-  # Templates
+  ### Templates
 [Template for Substring Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 
-  # Solutions
+  ### Solutions
   
 
 -------------------------------
